@@ -1,0 +1,15 @@
+{
+    "name": "hkianim/php-database",
+    "description": "Reusable PHP database query builder and repository package",
+    "type": "library",
+    "license": "MIT",
+    "require": {
+        "php": "^7.4",
+        "ext-pdo": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "Hkianim\\Database\\": "src/"
+        }
+    }
+}
