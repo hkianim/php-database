@@ -798,4 +798,4 @@ The initial release targets PHP 7.4 and later, with MySQL and MariaDB as support
 
 ## License
 
-License information will be added when the project license is selected.
+This project is licensed under the [MIT License](LICENSE).
