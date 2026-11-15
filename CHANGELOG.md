@@ -36,7 +36,3 @@ This project follows the principles of [Keep a Changelog](https://keepachangelog
 
 - PHP 7.4 and later.
 - MySQL and MariaDB through PDO.
-
----
-
-[Unreleased]: https://github.com/USERNAME/REPOSITORY/compare/v0.0.0...HEAD
